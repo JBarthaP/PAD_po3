@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PAD_po3/static/css/main.a751d517.css",
+    "main.js": "/PAD_po3/static/js/main.e74fdaa6.js",
+    "static/js/787.80920d77.chunk.js": "/PAD_po3/static/js/787.80920d77.chunk.js",
+    "index.html": "/PAD_po3/index.html",
+    "main.a751d517.css.map": "/PAD_po3/static/css/main.a751d517.css.map",
+    "main.e74fdaa6.js.map": "/PAD_po3/static/js/main.e74fdaa6.js.map",
+    "787.80920d77.chunk.js.map": "/PAD_po3/static/js/787.80920d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a751d517.css",
+    "static/js/main.e74fdaa6.js"
+  ]
+}
